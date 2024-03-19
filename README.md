@@ -10,6 +10,6 @@ Welcome to the setup guide for PhishStack! Follow the steps below to get started
 - Outlook 2014 or Above
 
 ## Setup Instructions
-1. **Clone the Repository:**
+1. **Download Repository:**
    ```bash
    git clone <repository_url>
