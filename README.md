@@ -12,4 +12,5 @@ Welcome to the setup guide for PhishStack! Follow the steps below to get started
 ## Setup Instructions
 1. **Download Repository:**
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/brahma0786/phishstack-setup.git
+   
