@@ -25,6 +25,7 @@ Welcome to the setup guide for PhishStack! Follow the steps below to get started
    - Navigate to the extracted folder and locate the setup executable (`setup.exe` or similar).
    - Right-click on the setup executable and select "Run as administrator".
    - Follow the on-screen instructions to complete the installation process.
+   - 
 ![image](https://github.com/brahma0786/phishstack-setup/assets/90752754/c8c85748-a127-427a-b74a-29cf7dead604)
 
 ### 2. Login Setup
