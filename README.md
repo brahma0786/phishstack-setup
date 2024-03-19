@@ -2,7 +2,7 @@
 
 # PhishStack Setup Guide
 
-Welcome to the setup guide for Project Name! Follow the steps below to get started with the setup process.
+Welcome to the setup guide for PhishStack! Follow the steps below to get started with the setup process.
 
 ## Prerequisites
 - Operating System: Window OS
