@@ -46,4 +46,3 @@ Welcome to the setup guide for PhishStack! Follow the steps below to get started
 4. **Check Registered Email:**
    - After signing up, you will receive a username and password for logging in
 
-rajat
