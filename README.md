@@ -44,5 +44,5 @@ Welcome to the setup guide for PhishStack! Follow the steps below to get started
    ![image](https://github.com/brahma0786/phishstack-setup/assets/90752754/ece0e4ec-db43-4218-9f6c-6c0c5f4043d0)
 
 4. **Check Registered Email:**
-   - After signing up, you will receive a username and password for logging in
-Jordan
+   - After signing up, you will receive a username and password for logging in 
+
